@@ -1,0 +1,8 @@
+name: copper
+
+packages:
+  - packages/*
+
+scripts:
+  analyze:
+    exec: flutter analyze .
