@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/packages\\copper_island/melos_copper_island.iml" filepath="$PROJECT_DIR$/packages\\copper_island/melos_copper_island.iml" />
+      <module fileurl="file://$PROJECT_DIR$/packages\\google_admob/melos_google_admob.iml" filepath="$PROJECT_DIR$/packages\\google_admob/melos_google_admob.iml" />
+      <module fileurl="file://$PROJECT_DIR$/packages\\google_firebase/melos_google_firebase.iml" filepath="$PROJECT_DIR$/packages\\google_firebase/melos_google_firebase.iml" />
+      <module fileurl="file://$PROJECT_DIR$/packages\\local_auth_plus/melos_local_auth_plus.iml" filepath="$PROJECT_DIR$/packages\\local_auth_plus/melos_local_auth_plus.iml" />
+      <module fileurl="file://$PROJECT_DIR$/packages\\platform_interface/melos_platform_interface.iml" filepath="$PROJECT_DIR$/packages\\platform_interface/melos_platform_interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/packages\\runner/melos_runner.iml" filepath="$PROJECT_DIR$/packages\\runner/melos_runner.iml" />
+      <module fileurl="file://$PROJECT_DIR$/packages\\ui/melos_ui.iml" filepath="$PROJECT_DIR$/packages\\ui/melos_ui.iml" />
+      <module fileurl="file://$PROJECT_DIR$/packages\\utils/melos_utils.iml" filepath="$PROJECT_DIR$/packages\\utils/melos_utils.iml" />
+      <module fileurl="file://$PROJECT_DIR$/melos_copper.iml" filepath="$PROJECT_DIR$/melos_copper.iml" />
+    </modules>
+  </component>
+</project>
