@@ -17,11 +17,14 @@ dependencies:
     git:
       url: https://github.com/rizentium/copper.git
       path: packages/copper_island
-
   platform_interface:
-    path: ../platform_interface
+    git:
+      url: https://github.com/rizentium/copper.git
+      path: packages/platform_interface
   ui:
-    path: ../ui
+    git:
+      url: https://github.com/rizentium/copper.git
+      path: packages/ui
 
 dev_dependencies:
   flutter_test:
