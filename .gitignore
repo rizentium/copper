@@ -1,1 +1,8 @@
 .dart_tool
+
+# Melos generated files
+.idea
+melos_copper_*.iml
+.flutter-plugins-dependencies
+.flutter-plugins
+pubspec_overrides.yaml

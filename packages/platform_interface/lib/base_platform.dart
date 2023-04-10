@@ -1,4 +1,4 @@
-import 'package:get_it/get_it.dart';
+import 'package:copper_island/copper_island.dart';
 import 'package:plugin_platform_interface/plugin_platform_interface.dart';
 
 abstract class BasePlatform extends PlatformInterface {

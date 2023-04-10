@@ -1,4 +1,4 @@
-import 'package:get_it/get_it.dart';
+import 'package:copper_island/copper_island.dart';
 import 'package:local_auth/local_auth.dart';
 import 'package:local_auth_android/types/auth_messages_android.dart';
 import 'package:local_auth_ios/types/auth_messages_ios.dart';

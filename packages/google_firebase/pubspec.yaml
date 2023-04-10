@@ -12,10 +12,18 @@ dependencies:
   flutter:
     sdk: flutter
 
+  copper_island:
+    git:
+      url: https://github.com/rizentium/copper.git
+      path: packages/copper_island
   runner:
-    path: ../runner
+    git:
+      url: https://github.com/rizentium/copper.git
+      path: packages/runner
   platform_interface:
-    path: ../platform_interface
+    git:
+      url: https://github.com/rizentium/copper.git
+      path: packages/platform_interface
   
   cloud_firestore: ^4.4.5
   firebase_app_check: ^0.1.1+14
@@ -28,7 +36,6 @@ dependencies:
   firebase_remote_config: ^3.0.14
   firebase_storage: ^11.0.16
   flutter_local_notifications: ^13.0.0
-  get_it: ^7.2.0
   google_sign_in: ^6.0.2
   logger: ^1.3.0
 

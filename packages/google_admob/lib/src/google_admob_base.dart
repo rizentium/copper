@@ -1,4 +1,4 @@
-import 'package:get_it/get_it.dart';
+import 'package:copper_island/copper_island.dart';
 import 'package:google_mobile_ads/google_mobile_ads.dart';
 import 'package:platform_interface/package_platform.dart';
 

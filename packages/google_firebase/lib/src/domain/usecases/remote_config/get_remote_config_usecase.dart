@@ -1,5 +1,5 @@
+import 'package:copper_island/copper_island.dart';
 import 'package:firebase_remote_config/firebase_remote_config.dart';
-import 'package:get_it/get_it.dart';
 import 'package:platform_interface/domain_platform.dart';
 
 class GetRemoteConfigUsecase implements UsecasePlatform {

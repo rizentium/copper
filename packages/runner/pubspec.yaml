@@ -13,9 +13,10 @@ dependencies:
     sdk: flutter
 
   copy_with_extension: ^5.0.2
-  flutter_bloc: ^8.0.0
-  get_it: ^7.2.0
-  go_router: ^6.4.1
+  copper_island:
+    git:
+      url: https://github.com/rizentium/copper.git
+      path: packages/copper_island
 
   platform_interface:
     path: ../platform_interface
