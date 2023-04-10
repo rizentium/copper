@@ -13,9 +13,14 @@ dependencies:
     sdk: flutter
 
   platform_interface:
-    path: ../platform_interface
+    git:
+      url: https://github.com/rizentium/copper.git
+      path: packages/platform_interface
 
-  get_it: ^7.2.0
+  copper_island:
+    git:
+      url: https://github.com/rizentium/copper.git
+      path: packages/copper_island
   google_mobile_ads: ^2.3.0
   shared_preferences: ^2.0.20
 

@@ -1,4 +1,4 @@
-import 'package:go_router/go_router.dart';
+import 'package:copper_island/copper_island.dart';
 import 'package:platform_interface/base_platform.dart';
 
 abstract class FeaturePlatform implements BasePlatform {

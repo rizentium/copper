@@ -1,6 +1,5 @@
+import 'package:copper_island/copper_island.dart';
 import 'package:flutter/material.dart';
-import 'package:get_it/get_it.dart';
-import 'package:go_router/go_router.dart';
 import 'package:platform_interface/data_platform.dart';
 import 'package:platform_interface/domain_platform.dart';
 import 'package:platform_interface/feature_platform.dart';

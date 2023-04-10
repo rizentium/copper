@@ -1,4 +1,4 @@
-import 'package:get_it/get_it.dart';
+import 'package:copper_island/copper_island.dart';
 import 'package:google_firebase/google_firebase.dart';
 import 'package:platform_interface/domain_platform.dart';
 
